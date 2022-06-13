@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>co.prj</groupId>
-	<artifactId>one</artifactId>
+	<artifactId>Aproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>one Maven Webapp</name>
+	<name>Aproject Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -79,7 +79,7 @@
 			</resource>
 		</resources>
 
-		<finalName>one</finalName>
+		<finalName>Aproject</finalName>
 		<pluginManagement>
 			<!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
 			<plugins>
