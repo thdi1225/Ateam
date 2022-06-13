@@ -8,5 +8,6 @@
 </head>
 <body>
 	<jsp:forward page="login.do" />
+	<!-- test -->
 </body>
 </html>
